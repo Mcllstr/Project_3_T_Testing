@@ -4,7 +4,7 @@
 
 This study compares flight delays between American Airlines and the aggregation of its peers in the aviation world.  
 
-![airline_ratings](/
+![Airline_ratings](/images/ratings.jpg)
 
 American airlines has low customer ratings which continue to slip - the goal of this study was to see if American Airlines operational impact on its customers was also reflective of this sentiment.  
 
