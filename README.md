@@ -19,8 +19,8 @@ However when delays did occur, they were on average shorter than the aviation po
 The data comes from the Department of Transportation open data ([here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236)) collected on domestic flights between November 2018 and April 2019.
 
 ## Contributors
-- Joe McAllister (([mcllstr](https://github.com/mcllstr)))
-- Nateé Johnson  (([nateej1](https://github.com/nateej1)))
+- Joe McAllister ([mcllstr](https://github.com/mcllstr))
+- Nateé Johnson  ([nateej1](https://github.com/nateej1))
 
 ## Files
 - <'python workbook name here'>  - technical notbook containing detailed analysis
