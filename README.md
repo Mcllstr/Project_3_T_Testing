@@ -1,7 +1,5 @@
 # Comparing American Airlines Travel Disruptions to Their Peers
 
-
-
 ## Abstract
 
 This study compares flight delays between American Airlines and the aggregation of its peers in the aviation world.  In recent times American Airlines brand customer perception has suffered, something that was acknowledged by their CEO during their 2018 Q4 earnings call. ([Q4 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2019/01/26/american-airlines-group-aal-q4-2018-earnings-confe.aspx))
@@ -23,8 +21,10 @@ The data comes from the Department of Transportation open data ([here](https://w
 - Nateé Johnson  ([nateej1](https://github.com/nateej1))
 
 ## Files
-- <'python workbook name here'>  - technical notbook containing detailed analysis
-- flight_data_zipped_files       - folder containing zipped data files for flights between November 2019 and April 2019
+*master branch under contstruction - extra files not listed will be removed*
+- American_Airline_Analysis.ipynb  - technical notbook containing detailed analysis
+- Joe&Nateé_ Fly Today.pdf - presentation pdf
+- flight_data_zipped_files  - folder containing zipped data files for flights between November 2019 and April 2019
   - april_2019.zip
   - march_2019.zip
   - february_2019.zip
@@ -32,4 +32,6 @@ The data comes from the Department of Transportation open data ([here](https://w
   - december_2018.zip
   - november_2018.zip
   - airline_name_and_code_key.zip
-- images                         - directory of plots generated for notebook.
+- airline_data_wrangling.ipynb - background data cleaning code for cleaner technical notebook.
+- airline_functions.ipynb - functions for generating plots/data in technical notebook 
+- images - directory of plots generated for notebook.
