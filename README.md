@@ -10,7 +10,7 @@ This study compares flight delays between American Airlines and the aggregation 
 
 By comparing AA flight departure on time performance to the aviation population at large we hoped to see if the company is underserving its customers by causing excessive travel distruptions.  Though customer satisfaction can be affected by many variables not measured here, it was hypothesized that travel disruption and delay may contribute to the recent drop in brand reputation.  Our analysis showed that between 2018 and 2019 american American delayed  their flights ~2% more often than their peers. 
 
-![Proportion of flights delayed](/images/proportion_flights_delayed_AA_v_others.jpg)
+![Proportion of flights delayed](/images/proportion_flights_delayed_aa_v_others.jpg)
 
 However when delays did occur, they were on average shorter than the aviation population at large.   
 
@@ -19,8 +19,9 @@ However when delays did occur, they were on average shorter than the aviation po
 The data comes from the Department of Transportation open data ([here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236)) collected on domestic flights between November 2018 and April 2019.
 
 ## Contributors
-- Joe McAllister (Mcllstr)
-- Nateé Johnson  (nateej1)
+- Joe McAllister (([mcllstr](https://github.com/mcllstr)))
+- Nateé Johnson  (([nateej1](https://github.com/nateej1)))
+
 ## Files
 - <'python workbook name here'>  - technical notbook containing detailed analysis
 - flight_data_zipped_files       - folder containing zipped data files for flights between November 2019 and April 2019
